@@ -36,7 +36,7 @@ int main () {
 |||
 
 [Code Visualizer](open_tutor c_demo.c)
-{Compile code}(gcc -o c_demo c_demo.c)
-{Run Code}(./c_demo)
+{Compile code}(gcc -o c_demo2 c_demo.c)
+{Run Code}(./c_demo2)
 
 {Check It!|assessment}(parsons-puzzle-2650837085)

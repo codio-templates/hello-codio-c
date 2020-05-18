@@ -5,7 +5,7 @@
   "source": {
    "name": "Demo Question",
    "showName": false,
-   "instructions": "## Reading Question\nRearrange the code blocks below to create a loop that iterates over a list and prints each element of the list. **Note**, some of the code blocks will not be used.",
+   "instructions": "## Reading Question\nRearrange the code blocks below to create a loop that iterates over a list and prints each element of the list. Indent blocks as you would in any C program. **Note**, some of the code blocks will not be used.",
    "initial": "char animals[4] = {\"cat\", \"dog\", \"fish\", \"rabbit\"};\nfor (int i = 0; i < 4; ++i) {\n  printf(\"%s\\n\", animals[i]);\n}\nfor (int i = 0, i < 4, ++i) { #distractor\nfor (++i; int i  0; i < 4) {#distractor",
    "options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\"\n}",
    "grader": "",
