@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int numbers[4] = {1, 2, 3, 4};
 
 int main () {
