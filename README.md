@@ -5,7 +5,7 @@ Feel free to edit and try things out – if you need a new copy of this project 
 
 
 For Codio.com users, go to this [Starter Pack](https://codio.com/home/starter-packs/a22062b3-7ea9-4ace-a9fa-c6cd7f9a35ff).
-For Codio.co.uk users, go to this [Starter Pack]().
+For Codio.co.uk users, go to this [Starter Pack](https://codio.co.uk/home/starter-packs/ba0df98a-1ea8-42bc-a8ed-f131a0927b49).
 
 ## Start the Guide to see the project
 If you are seeing this, you are currently in edit mode. To start Guides from this page, go to the tool bar at the top:
