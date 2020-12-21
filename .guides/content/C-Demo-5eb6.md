@@ -6,7 +6,7 @@ C allows you to iterate over a list. That means starting with the first element 
 
 ![Iterating Over an Array](.guides/img/array-iterate.png)
 
-<details><summary>**numbers, numbers[n], and loop termination**</summary>In the example below, the iteration variable is `n` and the list is named `numbers`. This means that `numbers[n]` represents the current element being accessed by the loop. The loop continues as long as `n` is less than 4 because we begin the loop at 0.</details>
+<details><summary><b>numbers, numbers[n], and loop termination</b></summary>In the example below, the iteration variable is <code>n</code> and the list is named <code>numbers</code>. This means that <code>numbers[n]</code> represents the current element being accessed by the loop. The loop continues as long as <code>n</code> is less than 4 because we begin the loop at 0.</details>
   
 ```c
 #include <stdio.h>

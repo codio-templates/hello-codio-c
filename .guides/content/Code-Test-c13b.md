@@ -11,7 +11,7 @@ Write a program that accepts a number and then multiplies that number by three. 
 |3            |9              |
 
 
-<details><summary>**Adding the Terminal**</summary>You can add the terminal to the `TEST CODE` button by changing the markdown code to `{test code|terminal}(code/code_test 3)`. To add a terminal to the UI, click on the gear icon, and select "3 Panels without tree" as the layout. Then click on "Open tabs" and add a tab. Select "Terminal" as the type, and set the panel to 1. If you do not add a terminal to the UI, Codio will open one automatically in the same panel as the C code. The terminal will be in a separate tab from the code.</details>
+<details><summary><b>Adding the Terminal</b></summary>You can add the terminal to the <code>TEST CODE</code> button by changing the markdown code to <code>{test code|terminal}(code/code_test 3)</code>. To add a terminal to the UI, click on the gear icon, and select "3 Panels without tree" as the layout. Then click on "Open tabs" and add a tab. Select "Terminal" as the type, and set the panel to 1. If you do not add a terminal to the UI, Codio will open one automatically in the same panel as the C code. The terminal will be in a separate tab from the code.</details>
 
 {Compile code}(gcc -o code/code_test code/code_test.c)
 {Test Code with -5}(code/code_test -5)
