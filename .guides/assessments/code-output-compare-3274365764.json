@@ -1,0 +1,67 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"command": "code/code_test",
+		"guidance": "Here is one possible solution:\n\n```c\n#include \u003cstdio.h\u003e \n#include \u003cstdlib.h\u003e\n\nint main(int argc, char **argv) \n{ \n  int num = atoi(argv[1]); // typecast the string to an int\n      \n  printf(\"%d\\n\", num * 3); // print the int multiplied by 3\n  return 0; \n} \n```\n\nHere are a couple of things to keep in mind:\n* `char **argv` is a vector of all of the arguments for your program. These arguments are strings.\n* `atoi` allows you to typecast strings to integers.\n* The first element of argument vector (`argv[0]`) is always the program name. So the number passed to your program will be `argv[1]`.",
+		"instructions": "Submit your code when ready",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"code/code_test.c",
+				"code/code_test.cpp"
+			],
+			"opened": [
+				{
+					"content": "code/code_test.c",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Standard Code Test"
+				}
+			]
+		},
+		"name": "standard code test example c",
+		"oneTimeTest": false,
+		"options": {
+			"ignoreCase": true,
+			"ignoreNewline": true,
+			"ignoreWhitespaces": true,
+			"matchSubstring": false,
+			"timeout": 30
+		},
+		"points": 1,
+		"preExecuteCommand": "gcc -o code/code_test code/code_test.c",
+		"sequence": [
+			{
+				"arguments": "9",
+				"feedback": "",
+				"input": "",
+				"output": "27",
+				"showFeedback": false
+			},
+			{
+				"arguments": "-10",
+				"feedback": "",
+				"input": "",
+				"output": "-30",
+				"showFeedback": false
+			},
+			{
+				"arguments": "12",
+				"feedback": "",
+				"input": "",
+				"output": "36",
+				"showFeedback": false
+			}
+		],
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": true,
+		"showName": false
+	},
+	"taskId": "code-output-compare-3274365764",
+	"type": "code-output-compare"
+}

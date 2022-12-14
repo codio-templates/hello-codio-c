@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "448c7d4d-72d0-9b3e-3589-670669d72e51",
+				"answer": "1984",
+				"correct": false
+			},
+			{
+				"_id": "d84086ba-a7d2-a56f-5797-d25d50b7c06f",
+				"answer": "1972",
+				"correct": true
+			},
+			{
+				"_id": "7a53cab5-f47f-40cb-d68d-86470ef77d54",
+				"answer": "1961",
+				"correct": false
+			},
+			{
+				"_id": "f0022a14-96e7-ace0-c96e-7ab7c6ef82f2",
+				"answer": "1997",
+				"correct": false
+			}
+		],
+		"bloomsObjectiveLevel": "",
+		"guidance": "C was originally developed at Bell labs, in 1972, by Dennis Ritchie.",
+		"incorrectPoints": 0,
+		"instructions": "## Multiple Choice Question\nWhen was C originally developed?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Practice MCQ",
+		"points": 1,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": true,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1981899322",
+	"type": "multiple-choice"
+}
