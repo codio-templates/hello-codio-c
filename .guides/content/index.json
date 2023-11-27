@@ -15,7 +15,7 @@
 	"scripts": [],
 	"suppressPageNumbering": false,
 	"theme": "light",
-	"title": "C",
+	"title": "Hello Codio in C",
 	"useMarkAsComplete": true,
 	"useSubmitButtons": true
 }
